@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NOSIAH-TG
 - 👀 I’m interested in art and game design
-- 🌱 I’m currently learning html, c and c++
+- 🌱 I’m currently learning html, react, c and c++
 - 💞️ I’m still trying to build myself with personal projects
 - 📫 you can reach me through my whatsapp in my profile
 - 😄 well I love art also and I do protraits
