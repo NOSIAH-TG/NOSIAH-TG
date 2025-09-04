@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NOSIAH-TG
-- 👀 I’m interested in art and game design
+- 👋 Hi, I’m Gilbert
+- 👀 I’m interested in art and game design, web dev
 - 🌱 I’m currently learning html, react, c and c++
 - 💞️ I’m still trying to build myself with personal projects
 - 📫 you can reach me through my whatsapp in my profile
